@@ -28,9 +28,8 @@ Our solution is a cross-platform application that helps rookie gardeners care fo
 ### Technologies Being Used: 
 The project is mainly being created using:
 - **Flutter & Dart 2.1**
-- **Python 3.9 and Pandas 1.3.4**
-- **Hive**
-- **Calender API**
+- **CSV database**
+- **TFlite**
 - **Weather API**
 
 ---
@@ -40,13 +39,6 @@ The project is mainly being created using:
 
 ---
 
-### Hardware and Software Requirements:
-
-**Unsupported platforms**
-
-- **Android:**	Android SDK _**15**_ & below
-- **iOS:**	iOS _**8**_ & below
-
 **Supported platforms**
 
 - **Android**:	API **_19_** & above	All
@@ -55,4 +47,4 @@ The project is mainly being created using:
 ---
 
 ### How to test our App?
-Our application will soon be available on the **Google Play Store** and the **Apple App Store** in the near future.
+The application will soon be available on the **Google Play Store** and the **Apple App Store** in the near future.
