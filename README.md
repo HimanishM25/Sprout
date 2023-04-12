@@ -1,6 +1,5 @@
 ###### sprout.
 
-**NOTE:** Project still in progress
 # SPROUT
 
 ### Table Of Contents:
@@ -8,7 +7,6 @@
 - [Main Vision](#main-vision)
 - [Technologies Used](#technologies-being-used)
 - [Hardware & Software Requirements](#hardware-and-software-requirements)
-- [Project Status](#project-status)
 - [**How to use our App?**](#how-to-test-our-app)
 
 
@@ -34,11 +32,6 @@ The project is mainly being created using:
 
 ---
 
-### Project Status: 
-♻️Currently being worked on
-
----
-
 **Supported platforms**
 
 - **Android**:	API **_19_** & above	All
@@ -47,4 +40,4 @@ The project is mainly being created using:
 ---
 
 ### How to test our App?
-The application will soon be available on the **Google Play Store** and the **Apple App Store** in the near future.
+The application can be tested for Android by installing the beta release from the releases tab to the right.
